@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Read(//c/Users/LENOVO/Downloads/**)",
+      "Bash(ls -la \"C:\\\\Users\\\\LENOVO\\\\.claude\\\\plans\" 2>/dev/null || echo \"Directory does not exist\")",
+      "Read(//c/Users/LENOVO/.claude/plans/**)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\LENOVO\\\\.claude\\\\plans\" 2>/dev/null || true)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\LENOVO\\.claude\\plans"
+    ]
+  }
+}
